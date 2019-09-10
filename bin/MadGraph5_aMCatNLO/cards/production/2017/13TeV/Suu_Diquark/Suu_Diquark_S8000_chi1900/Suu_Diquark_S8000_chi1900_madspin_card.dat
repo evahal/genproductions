@@ -13,6 +13,10 @@
 #************************************************************
 #Some options (uncomment to apply)
 #
+
+#directory for gridpack mode
+set ms_dir ./madspingrid
+
 # set seed 1
 # set Nevents_for_max_weigth 75 # number of events for the estimate of the max. weight
 # set BW_cut 15                 # cut on how far the particle can be off-shell
